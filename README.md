@@ -24,3 +24,5 @@ Categorizes countries into critical and normal zones, analyzes death rates, and 
 
 
 
+
+
