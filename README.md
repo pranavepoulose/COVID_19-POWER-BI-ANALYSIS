@@ -6,6 +6,7 @@ COVID-19 Analytics Power BI Dashboard
 
 ## Overview:
 Displays total cases, deaths, recoveries, and active cases globally, with regional breakdowns and severity levels (High, Medium, Low). Weekly case progression charts show the pandemic's trend over time.
+!![Screenshot 2025-02-11 130046](https://github.com/user-attachments/assets/c00f46a0-f2fb-4671-8e55-3dea67254452)
 
 
 
