@@ -19,6 +19,9 @@ Categorizes countries into critical and normal zones, analyzes death rates, and 
 
 **This dashboard is a vital tool for health authorities and organizations to track and respond to COVID-19 developments.**
 
+*Explore the Real-Time COVID-19 Dashboard: Key Insights and Global Trends*
+https://github.com/pranavepoulose/COVID_19-POWER-BI-ANALYSIS/blob/main/covid_19%20power%20bi%20dashboard.mp4
+
 
 
 
